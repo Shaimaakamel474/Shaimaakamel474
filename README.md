@@ -1,100 +1,95 @@
-<h1 align="center">Hi 👋, I'm Shaimaa Kamel</h1>
-<h3 align="center">A software engineering student</h3>
+# 🌟 Welcome to Shaimaa Kamel's GitHub Profile! 🌟
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahmahmoud2003&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahmahmoud2003" /> </p>
+![GitHub Banner](https://media.licdn.com/dms/image/v2/D4D16AQEnnDUyc_vxdA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1706386052273?e=1741824000&v=beta&t=6zLd3hNHWxkMbaze1zRQ75ab65h-IA8UlxqmCWlVKSk)
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🏫 From Giza, Egypt
-- 👩🏻‍💻 I am a Biomedical Engineering student at Cairo University's Faculty of Engineering.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/shaimaa-kamel-87956b248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-mahmoud-hanafy-1a3116255" height="30" width="40" /></a>
-   <a href="shaimaakamel178@gmail.com">
-    <img align = "center" src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail" height="30" width="40"/>
-</a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shaimaakamel474&label=Profile%20views&color=0e75b6&style=flat" alt="shaimaakamel474" />
 </p>
 
-<h3 align="left">Languages:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shaimaakamel474&show_icons=true&locale=en" alt="shaimaakamel474" />
 </p>
 
-<h3 align="left">AI / Data Science:</h3>
-<p align="left">
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
-  </a>
+---
+
+## 👩🏻‍💻 About Me
+Hi there! 👋 I’m **Shaimaa Kamel**, a passionate **Biomedical Engineering student** at **Cairo University, Faculty of Engineering** 🎓.  
+I’m deeply interested in the intersection between **Software Engineering**, **Artificial Intelligence**, and **Biomedical Technology** — building intelligent systems that can make real-world healthcare smarter and more accessible. ❤️‍🔥  
+
+---
+
+## 🧠 What I Do
+- 🤖 **AI & Machine Learning** — Building and training models for biomedical and image-based applications.  
+- 💉 **Biomedical Systems** — Designing embedded systems simulations (e.g., heart rate sensors, incubator controllers, and smart monitoring systems).  
+- 💡 **Signal Processing & Data Analysis** — Applying Python and MATLAB for filtering, HRV analysis, and data visualization.  
+- 🌐 **Software Development** — Developing smart applications and GUIs using PyQt5, Flask, and ReactJS.
+
+---
+
+## 🔧 My Toolbox
+
+**Languages:**  
+Python 🐍 | C | C++ | Java | HTML | CSS | Bash  
+
+**Frameworks & Libraries:**  
+TensorFlow | PyTorch | Scikit-learn | OpenCV | Pandas | NumPy | Seaborn | Matplotlib  
+
+**Backend & Databases:**  
+Django | Flask | PostgreSQL  
+
+**Tools & Platforms:**  
+Git | Linux | Arduino | Proteus | MATLAB | Docker  
+
+---
+
+## 🧩 Featured Projects
+
+### 🚦 Smart Conveyor Monitoring & Control System (Proteus Simulation)
+A simulation of an automated conveyor system using an ARM Cortex-M microcontroller.  
+It features:
+- Speed measurement via Timer Input Capture  
+- Motor control via ADC + PWM  
+- Object detection via polling  
+- Emergency stop via external interrupt  
+- Real-time display on a 16x2 LCD  
+
+🎥 **Demo Video:**  
+<video src="https://github.com/user-attachments/assets/a957ba6e-2248-4abb-b364-6d6b64958bea" controls autoplay muted loop width="600"></video>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shaimaakamel474&show_icons=true&theme=transparent" alt="shaimaakamel474 stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shaimaakamel474&show_icons=true&locale=en&layout=compact" alt="shaimaakamel474 top langs" />
 </p>
 
-<h3 align="left">Backend / Databases / Frameworks:</h3>
-<p align="left">
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a>
-</p>
+---
 
-<h3 align="left">Tools & Platforms:</h3>
+## 🤝 Connect With Me
 <p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  <a href="https://www.linkedin.com/in/shaimaa-kamel-87956b248" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
-  </a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
+  <a href="mailto:shaimaakamel178@gmail.com" target="_blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="gmail" height="30" width="40"/>
   </a>
 </p>
 
 ---
 
+## 🏆 Highlights
+- 🎯 Built AI and embedded projects integrating software + hardware control.  
+- 🧬 Focused on **Biomedical Signal Processing**, **Machine Learning**, and **Intelligent Systems**.  
+- 💻 Continuously learning and exploring advanced **AI in healthcare** applications.  
 
+---
 
+## 💬 Quote
+> *"The future of medicine is digital — and I want to be part of the code that makes it happen."* 💙
 
+---
 
+⭐ **Thanks for visiting my GitHub profile!**  
+Let’s innovate, collaborate, and make technology work for life. 🌍
