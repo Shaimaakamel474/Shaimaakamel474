@@ -126,8 +126,6 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shaimaakamel474&show_icons=true&theme=radical&hide=contribs&count_private=true" alt="Shaimaa's GitHub Stats" />
-  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaimaakamel474&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
