@@ -1,5 +1,4 @@
 
-You said:
 <!-- Header Section -->
 <h1 align="center">Hi there! 👋 I'm Shaimaa Kamel</h1>
 <h3 align="center">🎓 Biomedical Engineering Student | 💻 AI & Embedded Systems Enthusiast |  Passionate about Smart Healthcare Technology</h3>
