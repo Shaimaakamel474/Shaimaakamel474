@@ -1,6 +1,12 @@
-Hi there! 👋 I’m **Shaimaa Kamel**, a passionate **Biomedical Engineering student** at **Cairo University, Faculty of Engineering** 🎓.  
-I’m deeply interested in the intersection between **Software Engineering**, **Artificial Intelligence**, and **Biomedical Technology** — building intelligent systems that can make real-world healthcare smarter and more accessible. ❤️‍🔥  
+<!-- Header Section -->
+<h1 align="center">Hi there! 👋 I'm Shaimaa Kamel</h1>
+<h3 align="center">🎓 Biomedical Engineering Student | 💻 AI & Embedded Systems Enthusiast | ❤️ Passionate about Smart Healthcare Technology</h3>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400"/>
+</p>
+
+---
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=abdullahmahmoud2003&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahmahmoud2003" /> 
 </p>
@@ -11,10 +17,6 @@ I’m deeply interested in the intersection between **Software Engineering**, **
   </a> 
 </p>
 
-- 🏫 From Giza, Egypt  
-- 👩🏻‍💻 I am a Biomedical Engineering student at Cairo University's Faculty of Engineering.
-
----
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
